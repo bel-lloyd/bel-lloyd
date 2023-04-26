@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bel-lloyd
 - 👀 I’m interested in travel, adventure and the perfect pot of tea.
-- 🌱 I’m currently learning coding to enter the tech industry - talk to me about opportunities! 🤓
-- 💞️ I’m looking to learn from awesome tech teams.
+- 🌱 I’m a technical Marketer SQL, HTML and CSS are my jam - talk to me about opportunities! 🤓
+- 💞️ I’m looking to learn more front end development from awesome tech teams.
 - 📫 How to reach me bel@zandiconsulting.com
 
 <!---
